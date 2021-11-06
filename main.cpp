@@ -2,10 +2,10 @@
 
 int main(){
 
-int a,b,c,d;
+int a,b,c,d,e;
 
-std::cin>>a>>b>>c>>d;
-std::cout<<(a+b+c+d)/4;
+std::cin>>a>>b>>c>>d>>e;
+std::cout<<(a+b+c+d)/5;
 
 
 
